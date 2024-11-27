@@ -7,7 +7,7 @@ import matplotlib.pyplot as plt
 from sklearn.metrics import mean_squared_error, mean_absolute_error, r2_score
 
 
-model = load_model(r'C:\Users\ADMIN\Stock Price Prediction\Stock Predictions Model.keras')
+model = load_model(r'C:\Users\ADMIN\Desktop\you got this girl!\Stock Price Prediction\Stock Predictions Model.keras')
 
 
 st.header('Stock market prediction')
